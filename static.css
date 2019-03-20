@@ -1,0 +1,22 @@
+body{
+  background: #35D835;
+  display: flex;
+
+}
+ .right{
+  background: #BD35D8;
+  text-align: center;
+  flex: auto;
+  justify-content: space-around;
+  width: 25;
+  box-shadow: 5px 5px 5px black;
+
+}
+.left{
+  background: #C235D8;
+  text-align: center;
+  width: 65;
+}
+table{
+  border: 1px solid red;
+}

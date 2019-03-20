@@ -1,0 +1,42 @@
+{
+  "basics":{
+    "img":"spy.jpg",
+    "name":"JaiNikhil",
+    "email":"jaiNikhil@gmail"
+  },
+  "carrier":{
+    "info":"ABBCDEFGHJ"
+  },
+  "education":[
+    {
+ "sno":"1",
+ "degree":"btech",
+ "institute":"mit",
+ "per":"80"
+},
+{
+  "sno":"2",
+  "degree":"inter",
+  "institute":"scjc",
+  "per":"95"
+},
+{
+  "sno":"3",
+  "degree":"ssc",
+  "institute":"scts",
+  "per":"90"
+}
+],
+  "skills":[
+    {
+      "info":"c"
+    },
+    {
+      "info":"c++"
+    },
+    {
+      "info":"java"
+    }
+
+]
+}
